@@ -44,6 +44,10 @@ public class ConsonantVowelPractice {
             }
         }
 
+        //Output
+        System.out.println("Jumlah huruf vokal = "+jumlahHurufVokal);
+        System.out.println("Jumlah huruf konsonan = "+jumlahHurufKonsonan);
+        System.out.println("Total Karakter = "+(jumlahHurufVokal+jumlahHurufKonsonan));
 
     }
 }
