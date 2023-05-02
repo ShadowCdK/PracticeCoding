@@ -6,5 +6,9 @@ public class ConsonantVowelPractice {
 
         //Method input (Scanner)
         Scanner input = new Scanner(System.in);
+
+        //Input
+        System.out.println("Masukkan Teks : ");
+        String inputString = input.nextLine();
     }
 }
