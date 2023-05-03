@@ -20,8 +20,8 @@ public class ConsonantVowelPractice {
     private static void process (String inputString) {
         //Proses
         //Pembuatan Array huruf vokal dan konsonan
-        char[] hurufVokal = ['a','i','u','e','o'];
-        char[] hurufKonsonan = ['b','c','d','f','g','h','j','k','l','m','n','p','q','r','s','t','v','w','x','y','z'];
+        char[] hurufVokal ={'a','i','u','e','o'};
+        char[] hurufKonsonan ={'b','c','d','f','g','h','j','k','l','m','n','p','q','r','s','t','v','w','x','y','z'};
 
         //Perulangan untuk mencari jumlah huruf vokal dan konsonan
         int jumlahHurufVokal = 0;
